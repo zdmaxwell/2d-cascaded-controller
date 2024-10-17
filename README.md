@@ -1,4 +1,4 @@
-## Udacity Project: 2D Linear Cascaded Control
+## Udacity Project: 2D Cascaded Controllers
 
 #### Overview:
 
